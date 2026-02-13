@@ -1,6 +1,6 @@
 # Dev Notes
 
-A structured technical learning journal focused on Git fundamentals, workflow discipline, and version control best practices.
+A structured technical learning journal focused on Git fundamentals, workflow discipline, version control best practices, and collaborative development workflows.
 
 ---
 
